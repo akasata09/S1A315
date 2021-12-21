@@ -1,5 +1,5 @@
 @charset "UTF-8";
-div.solid, div.dotted, div.dashed, div.double {
+div.solid, div.dotted, div.dashed, div.double  {
   display: inline-block;
   background-color: #eee;
   width: 100px;
