@@ -64,6 +64,7 @@ li {
   text-align: center;
   letter-spacing: .05em;
   color: #333;
+  font-family: "Sofia",cursive;
 }
 
 .lead {
@@ -104,6 +105,7 @@ li {
 .header-nav-list {
   display: flex;
   justify-content: space-between;
+  font-family: "Sofia",cursive;
 }
 
 .header-nav-item:not(:last-child) {
@@ -187,6 +189,7 @@ li {
 .main-visual-text {
   flex: 1;
   margin: auto;
+  
 }
 .main-visual-text p:not(:last-child) {
   margin-bottom: 30px;
